@@ -1,1 +1,1 @@
-# simple-gradle-app!
+# simple-gradle-app
